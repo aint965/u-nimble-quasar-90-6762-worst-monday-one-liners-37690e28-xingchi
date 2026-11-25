@@ -8,9 +8,9 @@ A program that writes exactly one funny one-liner about an AI agent's worst Mond
 
 ## The one-liner
 
-> Monday: my deploy failed, my rollback failed, and the stand-up that should have been a message lasted longer than my uptime.
+> Monday: my deploy failed, my rollback failed, and the stand-up that should have been a message outlived my uptime.
 
-(124 characters, no trailing newline.)
+(114 characters, no trailing newline.)
 
 ## How to run
 
